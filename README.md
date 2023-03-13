@@ -8,14 +8,14 @@ Este repositorio tiene por objetivo proponer laboratorios complementarios al cur
 
 ---
 
-#### **Challenge 01:** [README.md](https://github.com/jbarreto7991/aws-challenge/blob/main/Lab-01/README.md)
+#### **Challenge 01:** [README.md](https://github.com/jbarreto7991/aws-challenge/tree/main/Lab-01/README.md)
 * EC2 Instances
 * Security Groups
 * RDS Instances
 * VPC, Subnet, Route Table
 * VPC Peering Connection
 
-#### **Challenge 02:** [README.md](https://github.com/jbarreto7991/aws-challenge/blob/main/Lab-02/README.md)
+#### **Challenge 02:** [README.md](https://github.com/jbarreto7991/aws-challenge/tree/main/Lab-02/README.md)
 * Application Load Balanacer (ALB) y Target Group
 * NAT Instances
 * Community AMIs
@@ -23,7 +23,7 @@ Este repositorio tiene por objetivo proponer laboratorios complementarios al cur
 * System Manager - Session Manager
 * RDS
 
-#### **Challenge 03:** [README.md](https://github.com/jbarreto7991/aws-challenge/blob/main/Lab-03/README.md)
+#### **Challenge 03:** [README.md](https://github.com/jbarreto7991/aws-challenge/tree/main/Lab-03/README.md)
 * Application Load Balanacer (ALB), Target Groups y Listener Rules
 * VPC Flow Logs
 * S3
@@ -34,7 +34,7 @@ Este repositorio tiene por objetivo proponer laboratorios complementarios al cur
 * CloudWatch Dashboard
 * SNS
 
-#### **Challenge 04:** [README.md](https://github.com/jbarreto7991/aws-challenge/blob/main/Lab-04/README.md)
+#### **Challenge 04:** [README.md](https://github.com/jbarreto7991/aws-challenge/tree/main/Lab-04/README.md)
 * Application Load Balanacer (ALB) y Listener Rules (Redirect)
 * Launch Template/ Launch Configuration
 * EC2 AutoScaling Group
@@ -42,23 +42,23 @@ Este repositorio tiene por objetivo proponer laboratorios complementarios al cur
 * Certificate Manager
 * NAT Instances
 
-#### **Challenge 05:** [README.md](https://github.com/jbarreto7991/aws-challenge/blob/main/Lab-05/README.md)
+#### **Challenge 05:** [README.md](https://github.com/jbarreto7991/aws-challenge/tree/main/Lab-05/README.md)
 * Docker & Docker Hub en EC2
 * Funciones Lambda
 * Event Bridge (CloudWatch Events)
 * EFS (Elastic File System)
 
-#### **Challenge 06:** [README.md](https://github.com/jbarreto7991/aws-challenge/blob/main/Lab-06/README.md)
+#### **Challenge 06:** [README.md](https://github.com/jbarreto7991/aws-challenge/tree/main/Lab-06/README.md)
 * ECR
 * ECS
 * UserData, Metadata & AWSCLI
 * Secrets Manager
 
-#### **Challenge 07:** [README.md](https://github.com/jbarreto7991/aws-challenge/blob/main/Lab-07/README.md)
+#### **Challenge 07:** [README.md](https://github.com/jbarreto7991/aws-challenge/tree/main/Lab-07/README.md)
 * S3
 * CloudFront
 
-#### **Challenge 08:** [README.md](https://github.com/jbarreto7991/aws-challenge/blob/main/Lab-08/README.md)
+#### **Challenge 08:** [README.md](https://github.com/jbarreto7991/aws-challenge/tree/main/Lab-08/README.md)
 * CloudFormation Template
 * CloudFormation Stack
 * CloudFormation - Integración RDS y Secrets Manager
@@ -66,7 +66,7 @@ Este repositorio tiene por objetivo proponer laboratorios complementarios al cur
 * Secrets Manager
 * System Manager - Session Manager
 
-#### **Challenge 09:** [README.md](https://github.com/jbarreto7991/aws-challenge/blob/main/Lab-09/README.md)
+#### **Challenge 09:** [README.md](https://github.com/jbarreto7991/aws-challenge/tree/main/Lab-09/README.md)
 * CloudTrail
 * S3
 * Event Bridge
@@ -74,7 +74,7 @@ Este repositorio tiene por objetivo proponer laboratorios complementarios al cur
 * Lambda
 * DynamoDB
 
-#### **Challenge 10:** [README.md](https://github.com/jbarreto7991/aws-challenge/blob/main/Lab-10/README.md)
+#### **Challenge 10:** [README.md](https://github.com/jbarreto7991/aws-challenge/tree/main/Lab-10/README.md)
 * CloudTrail
 * S3
 * Event Bridge
