@@ -16,7 +16,7 @@ a. Desplegar la siguiente arquitectura cloud, detallada en:
 
 <br>
 
-<img src=/reto_02/Reto02.png>
+<img src=/challenge_02/Reto02.png>
 
 <br>
 
